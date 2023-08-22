@@ -7,5 +7,5 @@ I've tried to implement bloc logics in this app and this app is basically a groc
  -- flutter run
 
 # To add all dependencies used in this project
- -- flutter pub add bloc
+ -- flutter pub add bloc <br>
  -- flutter pub add flutter_bloc
